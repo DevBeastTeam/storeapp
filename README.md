@@ -20,7 +20,5 @@ samples, guidance on mobile development, and a full API reference.
 <!-- BeacutyProductApp -->
 # Beacuty Product App Demo
 <img src="demo_images/store.jpg" alt="Demo Image" width="300px">
-<hr>
-<video width="320" height="240" controls>
-  <source src="demo_images/videodemo.mp4">
-</video>
+
+<img src="demo_images/1.gif" alt="Demo Image" width="300px">
